@@ -7,12 +7,13 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">
-        Let&apos;s Build Something amazing with GPT-3 OpenAI
+        Revolutionize Your Expense Management Effortlessly
       </h1>
       <p>
-        Yet bed any for travelling assistance indulgence unpleasing. Not
-        thoughts all exercise blessing. Indulgence way everything joy alteration
-        boisterous the attachment. Party we years to order allow asked of.
+        Say goodbye to manual data entry and frustrating expense tracking. Our
+        intelligent solution streamlines the entire process, saving you time and
+        eliminating errors. Experience a new era of hassle-free expense
+        management
       </p>
 
       <div className="gpt3__header-content__input">

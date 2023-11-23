@@ -6,28 +6,28 @@ const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
       <Feature
-        title="What is GPT-3"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+        title="What is ExpenseEase"
+        text="Revolutionize expense management with ease. Streamline tracking, eliminate errors, and embark on a new era of hassle-free control. Our intelligent solution is designed to simplify the process and enhance your experience effortlessly."
       />
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">
-        The possibilities are beyond your imagination
+        Revolutionize Expense Management with Ease
       </h1>
-      <p>Explore the Library</p>
+      <p>Explore the Features</p>
     </div>
     <div className="gpt3__whatgpt3-container">
       <Feature
-        title="Chatbots"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+        title="Streamlined Expense Tracking"
+        text="Effortlessly track and manage expenses, eliminating errors and saving time. Our intelligent solution makes expense management a breeze."
       />
       <Feature
-        title="Knowledgebase"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        title="Intelligent Spending Control"
+        text="Embark on a new era of hassle-free expense control. Our solution is designed to simplify the process, enhancing your overall expense management experience."
       />
       <Feature
-        title="Education"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        title="User-Friendly Budgeting"
+        text="Experience user-friendly budgeting with our innovative app. Say goodbye to manual data entry and frustrating expense tracking—welcome a smarter way to manage your finances."
       />
     </div>
   </div>
